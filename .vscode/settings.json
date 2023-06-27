@@ -1,0 +1,12 @@
+{
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "aiXcoder.showTrayIcon": true,
+    "discord.detailsDebugging": "正在把{file_name}中的錯誤除得一乾二淨!",
+    "discord.largeImage": "正在編輯一個 {LANG} 的檔案",
+    "discord.lowerDetailsNoWorkspaceFound": "沒有開啟的專案，看來Starmoon非常懶",
+    "discord.lowerDetailsEditing": "開啟的專案名稱: {workspace}",
+    "discord.detailsEditing": "正在編輯 {file_name}",
+    "discord.largeImageIdling": "空轉中...",
+    "discord.lowerDetailsIdling": "空轉中...",
+    "discord.detailsIdling": "空轉中..."
+}
